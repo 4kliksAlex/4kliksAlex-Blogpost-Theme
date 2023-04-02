@@ -1,2 +1,2 @@
 # 4kliksAlex Blogpost Theme
-Theme for [my blogpost](4kliksalex.blogspot.com).
+Theme for [my blogpost](https://4kliksalex.blogspot.com/).
